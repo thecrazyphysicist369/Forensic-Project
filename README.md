@@ -3,6 +3,13 @@ This is a repository to hold the code for the forensic related project of our co
 
 Others
 # Data
+We collected these dataset to train our classifier. The sources are linked.
+1. datset1
+2. dataset2
+3. dataset3
+
+But in addition to that we also made our own dataset and preprocessed it for everyone to use.
+
 ## Featured Datasets
 
 ## 
