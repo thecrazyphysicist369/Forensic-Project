@@ -6,7 +6,7 @@ poll([{fd=4, events=POLLIN}, {fd=5, events=POLLIN}, {fd=7, events=POLLIN}, {fd=2
 recvmsg(4, {msg_namelen=0}, 0)          = -1 EAGAIN (Resource temporarily unavailable)1
 recvmsg(4, {msg_namelen=0}, 0)          = -1 EAGAIN (Resource temporarily unavailable)1
 poll([{fd=4, events=POLLIN}, {fd=5, events=POLLIN}, {fd=7, events=POLLIN}, {fd=28, events=POLLIN}, {fd=41, events=POLLIN}], 5, -1) = 1 ([{fd=28, revents=POLLIN}])1
-"read(28, ""\372"", 1)                     = 1"1
+read(28, ""\372"", 1)                     = 1"1
 recvmsg(4, {msg_namelen=0}, 0)          = -1 EAGAIN (Resource temporarily unavailable)1
 recvmsg(4, {msg_namelen=0}, 0)          = -1 EAGAIN (Resource temporarily unavailable)1
 poll([{fd=4, events=POLLIN}, {fd=5, events=POLLIN}, {fd=7, events=POLLIN}, {fd=28, events=POLLIN}, {fd=41, events=POLLIN}], 5, 0) = 0 (Timeout)1
