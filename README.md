@@ -15,7 +15,7 @@ We constructed this dataset by attacking cloud based virtual machines by these a
 ## 
 ## 
 ## 
-###system calls
+#### system calls
 
 ## Classifiers
 We are using 4 different kinds of classifiers
@@ -24,4 +24,7 @@ We are using 4 different kinds of classifiers
 few lines about rnns and how are we using them in our project
 
 ### LSTMs
+few lines about lstms and how are we using them in our project
+
+### Convolutional Neural Networks
 few lines about lstms and how are we using them in our project
