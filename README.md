@@ -21,7 +21,7 @@ We constructed this dataset by attacking cloud based virtual machines by these a
 We are using 4 different kinds of classifiers
 
 ### Multi Layered Perceptron
-few lines about lstms and how are we using them in our project
+4 fully connected layer were used as multi layer perceptron. The shape of the layer are ----. We chose this model as a very basic comparative to the high end models. Also to see how MLP performs with the syscall() data.
 
 ### Recurrent Neural Networks
 few lines about rnns and how are we using them in our project
